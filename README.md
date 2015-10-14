@@ -1,7 +1,7 @@
 # Sfotipy
 Proyecto Sfotipy Platzi, con Python 3 como versión
 
-Pillow en ubuntu viene como paquete python3-pil, para tenerlo dentro de virtualenv, realizar un enlace simbolico al bin de virtualenv
+Pillow en ubuntu viene como paquete python3-pil, para tenerlo dentro de virtualenv, realizar un enlace simbolico al lib/python(version)/sites_packages de virtualenv
 Librerias Instaladas
 Django==1.8.4
 pbr==1.8.0
