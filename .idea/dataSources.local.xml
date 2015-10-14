@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="539774fe-c7c3-4f1e-b074-d2939a501e5b">
+      <user-name>postgres</user-name>
+      <schema-pattern>sfotipy.pg_catalog sfotipy.public</schema-pattern>
+      <default-schemas>sfotipy.pg_catalog sfotipy.public</default-schemas>
+    </data-source>
+  </component>
+</project>
